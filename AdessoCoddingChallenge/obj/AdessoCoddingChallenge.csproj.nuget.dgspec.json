@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hakan\\source\\repos\\AdessoCoddingChallenge\\AdessoCoddingChallenge\\AdessoCoddingChallenge.csproj": {}
+    "D:\\Codding\\AdessoCodingChallenge\\AdessoCoddingChallenge\\AdessoCoddingChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hakan\\source\\repos\\AdessoCoddingChallenge\\AdessoCoddingChallenge\\AdessoCoddingChallenge.csproj": {
+    "D:\\Codding\\AdessoCodingChallenge\\AdessoCoddingChallenge\\AdessoCoddingChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hakan\\source\\repos\\AdessoCoddingChallenge\\AdessoCoddingChallenge\\AdessoCoddingChallenge.csproj",
+        "projectUniqueName": "D:\\Codding\\AdessoCodingChallenge\\AdessoCoddingChallenge\\AdessoCoddingChallenge.csproj",
         "projectName": "AdessoCoddingChallenge",
-        "projectPath": "C:\\Users\\hakan\\source\\repos\\AdessoCoddingChallenge\\AdessoCoddingChallenge\\AdessoCoddingChallenge.csproj",
+        "projectPath": "D:\\Codding\\AdessoCodingChallenge\\AdessoCoddingChallenge\\AdessoCoddingChallenge.csproj",
         "packagesPath": "C:\\Users\\hakan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hakan\\source\\repos\\AdessoCoddingChallenge\\AdessoCoddingChallenge\\obj\\",
+        "outputPath": "D:\\Codding\\AdessoCodingChallenge\\AdessoCoddingChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hakan\\AppData\\Roaming\\NuGet\\NuGet.Config",
